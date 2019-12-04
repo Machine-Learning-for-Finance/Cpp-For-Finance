@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81d0c22a-aba6-471b-8d2f-265ed623a00d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/02-Arrays/DynamicArrays/src/program.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/02-Arrays/DynamicArrays/src/program.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-Functions/HeaderDefinitions/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-Functions/HeaderDefinitions/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-Functions/HeaderDefinitions/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-Functions/HeaderDefinitions/build/apps/program" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-Functions/HeaderDefinitions/include/float_function.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-Functions/HeaderDefinitions/src/float_function.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-Functions/HeaderDefinitions/src/program.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-BasicMonteCarlo/BasicExample/include/next_timestep.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-BasicMonteCarlo/BasicExample/src/next_timestep.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Conditionals/ForLoops/src/program.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/03-Conditionals/ForLoops/src/program.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-BasicMonteCarlo/BasicExample/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/06-BasicMonteCarlo/BasicExample/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-BasicMonteCarlo/BasicExample/src/program.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/06-BasicMonteCarlo/BasicExample/src/program.cpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,26 +26,48 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/03-Conditionals/ForLoops/src/program.cpp">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/02-Arrays/DynamicArrays/src/program.cpp">
+        <entry file="file://$PROJECT_DIR$/06-BasicMonteCarlo/BasicExample/src/program.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="8" column="58" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+            <state relative-caret-position="90">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
+        <entry file="file://$PROJECT_DIR$/06-BasicMonteCarlo/BasicExample/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="120">
-                <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+              <first_editor relative-caret-position="477">
+                <caret line="22" column="2" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/06-BasicMonteCarlo/BasicExample/include/next_timestep.hpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/06-BasicMonteCarlo/BasicExample/src/next_timestep.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -79,10 +113,18 @@
         <option value="$PROJECT_DIR$/07-Threading/README.md" />
         <option value="$PROJECT_DIR$/03-Functions/BasicFunctionTypes/src/program.cpp" />
         <option value="$PROJECT_DIR$/02-Arrays/DynamicArrays/src/program.cpp" />
+        <option value="$PROJECT_DIR$/03-Conditionals/ForLoops/src/program.cpp" />
+        <option value="$PROJECT_DIR$/04-Functions/HeaderDefinitions/include/float_function.hpp" />
+        <option value="$PROJECT_DIR$/04-Functions/HeaderDefinitions/src/float_function.cpp" />
+        <option value="$PROJECT_DIR$/04-Functions/HeaderDefinitions/src/program.cpp" />
+        <option value="$PROJECT_DIR$/06-BasicMonteCarlo/BasicExample/README.md" />
+        <option value="$PROJECT_DIR$/06-BasicMonteCarlo/BasicExample/include/next_timestep.hpp" />
+        <option value="$PROJECT_DIR$/06-BasicMonteCarlo/BasicExample/src/next_timestep.cpp" />
+        <option value="$PROJECT_DIR$/06-BasicMonteCarlo/BasicExample/src/program.cpp" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1" fullScreen="true">
     <option name="x" value="102" />
     <option name="y" value="34" />
     <option name="width" value="1391" />
@@ -93,7 +135,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -104,19 +145,42 @@
             <path>
               <item name="Cpp-For-Finance" type="b2602c69:ProjectViewProjectNode" />
               <item name="Cpp-For-Finance" type="462c0819:PsiDirectoryNode" />
-              <item name="02-Arrays" type="462c0819:PsiDirectoryNode" />
+              <item name="04-Functions" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Cpp-For-Finance" type="b2602c69:ProjectViewProjectNode" />
               <item name="Cpp-For-Finance" type="462c0819:PsiDirectoryNode" />
-              <item name="02-Arrays" type="462c0819:PsiDirectoryNode" />
-              <item name="DynamicArrays" type="462c0819:PsiDirectoryNode" />
+              <item name="05-RandomNumbers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Cpp-For-Finance" type="b2602c69:ProjectViewProjectNode" />
               <item name="Cpp-For-Finance" type="462c0819:PsiDirectoryNode" />
-              <item name="02-Arrays" type="462c0819:PsiDirectoryNode" />
-              <item name="DynamicArrays" type="462c0819:PsiDirectoryNode" />
+              <item name="05-RandomNumbers" type="462c0819:PsiDirectoryNode" />
+              <item name="Introduction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Cpp-For-Finance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cpp-For-Finance" type="462c0819:PsiDirectoryNode" />
+              <item name="06-BasicMonteCarlo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Cpp-For-Finance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cpp-For-Finance" type="462c0819:PsiDirectoryNode" />
+              <item name="06-BasicMonteCarlo" type="462c0819:PsiDirectoryNode" />
+              <item name="BasicExample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Cpp-For-Finance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cpp-For-Finance" type="462c0819:PsiDirectoryNode" />
+              <item name="06-BasicMonteCarlo" type="462c0819:PsiDirectoryNode" />
+              <item name="BasicExample" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Cpp-For-Finance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cpp-For-Finance" type="462c0819:PsiDirectoryNode" />
+              <item name="06-BasicMonteCarlo" type="462c0819:PsiDirectoryNode" />
+              <item name="BasicExample" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -128,22 +192,23 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/03-Functions/BasicFunctionTypes" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/04-Functions/HeaderDefinitions" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/04-Functions/HeaderDefinitions" />
       <recent name="$PROJECT_DIR$/03-Functions/BasicFunctionTypes" />
       <recent name="$PROJECT_DIR$/07-Threading" />
       <recent name="$PROJECT_DIR$/07-Threading/IntroductionThreading" />
       <recent name="$PROJECT_DIR$/02-Arrays/DynamicArrays" />
-      <recent name="$PROJECT_DIR$/02-Arrays/ArraysIntroduction" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -172,18 +237,19 @@
       <workItem from="1575386459854" duration="6000" />
       <workItem from="1575400790189" duration="5993000" />
       <workItem from="1575411819408" duration="5592000" />
-      <workItem from="1575468525329" duration="2164000" />
+      <workItem from="1575468525329" duration="2819000" />
+      <workItem from="1575497645104" duration="1323000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16217000" />
+    <option name="totallyTimeSpent" value="18195000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="102" y="34" width="1391" height="791" extended-state="0" />
+    <frame x="0" y="-30" width="1920" height="1110" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26171005" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19103523" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -210,10 +276,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/00-Makefiles/SimpleMakefile/src/print_statement.cpp" />
-    <entry file="file://$PROJECT_DIR$/00-Makefiles/SimpleMakefile/include/project/vector.hpp" />
-    <entry file="file://$PROJECT_DIR$/00-Makefiles/SimpleMakefile/src/vector.cpp" />
-    <entry file="file://$PROJECT_DIR$/00-Makefiles/SimpleMakefile/src/main.cpp" />
     <entry file="file://$PROJECT_DIR$/00-Makefiles/SimpleMakefile/src/program.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -356,32 +418,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04-RandomNumbers/Introduction/src/program.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="48" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-RandomNumbers/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="323">
-            <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/04-RandomNumbers/Introduction/src/program.cpp" />
+    <entry file="file://$PROJECT_DIR$/04-RandomNumbers/README.md" />
     <entry file="file://$PROJECT_DIR$/03-Conditionals/IfElseIntroduction/src/program.cpp">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/03-Conditionals/WhileLoops/src/program.cpp">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/05-BasicMonteCarlo/BasicExample/src/program.cpp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/05-BasicMonteCarlo/BasicExample/src/program.cpp" />
     <entry file="file://$PROJECT_DIR$/XX-AssortedUntilities/CURL/src/program.cpp" />
     <entry file="file://$PROJECT_DIR$/XX-AssortedUntilities/HTTP/src/program.cpp">
       <provider selected="true" editor-type-id="text-editor" />
@@ -405,64 +450,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07-Threading/IntroductionThreading/src/print_statement.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07-Threading/IntroductionThreading/include/print_statement.hpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07-Threading/IntroductionThreading/Makefile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="15" selection-start-line="15" selection-end-line="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-Conditionals/ForLoops/src/program.cpp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07-Threading/IntroductionThreading/src/program.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07-Threading/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="11" selection-start-column="11" selection-end-column="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-Functions/BasicFunctionTypes/src/program.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="695">
-          <caret line="52" column="48" selection-start-line="52" selection-start-column="48" selection-end-line="52" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07-Threading/IntroductionThreading/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="45">
-            <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/07-Threading/IntroductionThreading/src/print_statement.cpp" />
+    <entry file="file://$PROJECT_DIR$/07-Threading/IntroductionThreading/include/print_statement.hpp" />
+    <entry file="file://$PROJECT_DIR$/07-Threading/IntroductionThreading/Makefile" />
+    <entry file="file://$PROJECT_DIR$/07-Threading/IntroductionThreading/src/program.cpp" />
+    <entry file="file://$PROJECT_DIR$/07-Threading/README.md" />
+    <entry file="file://$PROJECT_DIR$/03-Functions/BasicFunctionTypes/src/program.cpp" />
+    <entry file="file://$PROJECT_DIR$/07-Threading/IntroductionThreading/README.md" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -475,8 +469,74 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/02-Arrays/DynamicArrays/src/program.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
+        <state relative-caret-position="192">
           <caret line="8" column="58" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-Functions/HeaderDefinitions/src/float_function.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-Functions/HeaderDefinitions/include/float_function.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-Functions/HeaderDefinitions/src/program.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-Conditionals/ForLoops/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-Conditionals/ForLoops/src/program.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06-BasicMonteCarlo/BasicExample/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="477">
+            <caret line="22" column="2" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06-BasicMonteCarlo/BasicExample/include/next_timestep.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06-BasicMonteCarlo/BasicExample/src/next_timestep.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06-BasicMonteCarlo/BasicExample/src/program.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
